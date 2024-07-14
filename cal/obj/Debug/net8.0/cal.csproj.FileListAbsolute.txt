@@ -1,0 +1,14 @@
+/home/abhi/college/csharp/cal/bin/Debug/net8.0/cal
+/home/abhi/college/csharp/cal/bin/Debug/net8.0/cal.deps.json
+/home/abhi/college/csharp/cal/bin/Debug/net8.0/cal.runtimeconfig.json
+/home/abhi/college/csharp/cal/bin/Debug/net8.0/cal.dll
+/home/abhi/college/csharp/cal/bin/Debug/net8.0/cal.pdb
+/home/abhi/college/csharp/cal/obj/Debug/net8.0/cal.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhi/college/csharp/cal/obj/Debug/net8.0/cal.AssemblyInfoInputs.cache
+/home/abhi/college/csharp/cal/obj/Debug/net8.0/cal.AssemblyInfo.cs
+/home/abhi/college/csharp/cal/obj/Debug/net8.0/cal.csproj.CoreCompileInputs.cache
+/home/abhi/college/csharp/cal/obj/Debug/net8.0/cal.dll
+/home/abhi/college/csharp/cal/obj/Debug/net8.0/refint/cal.dll
+/home/abhi/college/csharp/cal/obj/Debug/net8.0/cal.pdb
+/home/abhi/college/csharp/cal/obj/Debug/net8.0/cal.genruntimeconfig.cache
+/home/abhi/college/csharp/cal/obj/Debug/net8.0/ref/cal.dll

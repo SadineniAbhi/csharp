@@ -1,0 +1,11 @@
+/home/abhi/college/csharp/mymathlib/bin/Debug/net8.0/mymathlib.deps.json
+/home/abhi/college/csharp/mymathlib/bin/Debug/net8.0/mymathlib.dll
+/home/abhi/college/csharp/mymathlib/bin/Debug/net8.0/mymathlib.pdb
+/home/abhi/college/csharp/mymathlib/obj/Debug/net8.0/mymathlib.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhi/college/csharp/mymathlib/obj/Debug/net8.0/mymathlib.AssemblyInfoInputs.cache
+/home/abhi/college/csharp/mymathlib/obj/Debug/net8.0/mymathlib.AssemblyInfo.cs
+/home/abhi/college/csharp/mymathlib/obj/Debug/net8.0/mymathlib.csproj.CoreCompileInputs.cache
+/home/abhi/college/csharp/mymathlib/obj/Debug/net8.0/mymathlib.dll
+/home/abhi/college/csharp/mymathlib/obj/Debug/net8.0/refint/mymathlib.dll
+/home/abhi/college/csharp/mymathlib/obj/Debug/net8.0/mymathlib.pdb
+/home/abhi/college/csharp/mymathlib/obj/Debug/net8.0/ref/mymathlib.dll

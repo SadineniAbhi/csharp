@@ -1,0 +1,14 @@
+/home/abhi/college/csharp/threads/obj/Debug/net8.0/threads.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhi/college/csharp/threads/obj/Debug/net8.0/threads.AssemblyInfoInputs.cache
+/home/abhi/college/csharp/threads/obj/Debug/net8.0/threads.AssemblyInfo.cs
+/home/abhi/college/csharp/threads/obj/Debug/net8.0/threads.csproj.CoreCompileInputs.cache
+/home/abhi/college/csharp/threads/bin/Debug/net8.0/threads
+/home/abhi/college/csharp/threads/bin/Debug/net8.0/threads.deps.json
+/home/abhi/college/csharp/threads/bin/Debug/net8.0/threads.runtimeconfig.json
+/home/abhi/college/csharp/threads/bin/Debug/net8.0/threads.dll
+/home/abhi/college/csharp/threads/bin/Debug/net8.0/threads.pdb
+/home/abhi/college/csharp/threads/obj/Debug/net8.0/threads.dll
+/home/abhi/college/csharp/threads/obj/Debug/net8.0/refint/threads.dll
+/home/abhi/college/csharp/threads/obj/Debug/net8.0/threads.pdb
+/home/abhi/college/csharp/threads/obj/Debug/net8.0/threads.genruntimeconfig.cache
+/home/abhi/college/csharp/threads/obj/Debug/net8.0/ref/threads.dll

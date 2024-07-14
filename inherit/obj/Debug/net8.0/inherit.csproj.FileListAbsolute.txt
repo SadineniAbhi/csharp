@@ -1,0 +1,14 @@
+/home/abhi/college/csharp/inherit/obj/Debug/net8.0/inherit.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhi/college/csharp/inherit/obj/Debug/net8.0/inherit.AssemblyInfoInputs.cache
+/home/abhi/college/csharp/inherit/obj/Debug/net8.0/inherit.AssemblyInfo.cs
+/home/abhi/college/csharp/inherit/obj/Debug/net8.0/inherit.csproj.CoreCompileInputs.cache
+/home/abhi/college/csharp/inherit/bin/Debug/net8.0/inherit
+/home/abhi/college/csharp/inherit/bin/Debug/net8.0/inherit.deps.json
+/home/abhi/college/csharp/inherit/bin/Debug/net8.0/inherit.runtimeconfig.json
+/home/abhi/college/csharp/inherit/bin/Debug/net8.0/inherit.dll
+/home/abhi/college/csharp/inherit/bin/Debug/net8.0/inherit.pdb
+/home/abhi/college/csharp/inherit/obj/Debug/net8.0/inherit.dll
+/home/abhi/college/csharp/inherit/obj/Debug/net8.0/refint/inherit.dll
+/home/abhi/college/csharp/inherit/obj/Debug/net8.0/inherit.pdb
+/home/abhi/college/csharp/inherit/obj/Debug/net8.0/inherit.genruntimeconfig.cache
+/home/abhi/college/csharp/inherit/obj/Debug/net8.0/ref/inherit.dll

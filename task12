@@ -1,0 +1,83 @@
+TASK12: Student Management System application development with required details: Use
+ADO.NET for storing and manipulating the data. Develop the necessary forms for the better
+user interface.
+Step 1:Create a database
+1. Open Visual Studio.
+2. Go to Server Explorer. If Server Explorer is not opened go to View Server Explorer.
+3. Right click on Data Connections and select Create New SQL Server Database.
+4. Fill details like this.
+a.ServerName: .\SQLEXPRESS
+b.Select WindowsAuthentication
+c.DatabaseName: TestDB
+d. Click OK.
+Step 2:Create Table
+1. Now, expand your database Right click on Tables Add New Table.
+2. Create a new table like this.
+CREATE TABLE [dbo].[Student] (
+[Id] INT NOT NULL,
+[Name] NVARCHAR (50) NULL,
+[Subject] NVARCHAR (50) NULL,
+PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+3. After finishing table click on Update button that is the upper right corner of design pane.
+4. Right click on Student Table and select Show Table Data. Now, fill some demo data in it
+like this.
+Step 3: Get Connection String
+1. Now, your database and tables are ready. You can find your connection string in
+propertiesofthedatabase.
+a.RightClickon Database Properties
+Now, you have a database with a table and a connection string. The next step is to connect to
+the database and retrieve the records using ADO.Net Commands.
+INSERTING RECORD
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Data;
+using Vertica.Data.VerticaClient;
+namespace ConsoleApplication
+{
+class Program
+{
+static void Main(string[] args)
+{
+VerticaConnectionStringBuilder builder = new VerticaConnectionStringBuilder();
+VerticaConnection _conn = new VerticaConnection(builder.ToString());
+_conn.Open();
+VerticaCommand command = _conn.CreateCommand();
+command.CommandText =
+"INSERT into test values(2, 'username', ‘subject’)";
+Int32 rowsAdded = command.ExecuteNonQuery();
+Console.WriteLine( rowsAdded + " rows added!");
+_conn.Close();
+}
+}
+}
+RETRIEVE RECORD
+Start New Console Application.
+1. Go to File > New > Project. Create a new console application, FirstProgram and
+click OK.
+2. Paste the following code in the program window and press ctrl + F5
+using System;
+using System.Data.SqlClient;
+namespace FirstProgram
+{
+class Program
+{
+static void Main(string[] args)
+{
+string ConString = @"Data Source=.\SQLEXPRESS;Initial Catalog=TestDB;Integrated Secu
+rity=True";
+SqlConnection con = new SqlConnection(ConString);
+string querystring = "Select * from Student";
+con.Open();
+SqlCommand cmd = new SqlCommand(querystring, con);
+SqlDataReader reader = cmd.ExecuteReader();
+while (reader.Read())
+{
+Console.WriteLine(reader[0].ToString() + " " + reader[1].ToString() + " " + reader[2].ToStrin
+g());
+}
+}
+}
+}

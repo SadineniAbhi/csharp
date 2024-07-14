@@ -1,0 +1,14 @@
+/home/abhi/college/csharp/stringshit/bin/Debug/net8.0/stringshit
+/home/abhi/college/csharp/stringshit/bin/Debug/net8.0/stringshit.deps.json
+/home/abhi/college/csharp/stringshit/bin/Debug/net8.0/stringshit.runtimeconfig.json
+/home/abhi/college/csharp/stringshit/bin/Debug/net8.0/stringshit.dll
+/home/abhi/college/csharp/stringshit/bin/Debug/net8.0/stringshit.pdb
+/home/abhi/college/csharp/stringshit/obj/Debug/net8.0/stringshit.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhi/college/csharp/stringshit/obj/Debug/net8.0/stringshit.AssemblyInfoInputs.cache
+/home/abhi/college/csharp/stringshit/obj/Debug/net8.0/stringshit.AssemblyInfo.cs
+/home/abhi/college/csharp/stringshit/obj/Debug/net8.0/stringshit.csproj.CoreCompileInputs.cache
+/home/abhi/college/csharp/stringshit/obj/Debug/net8.0/stringshit.dll
+/home/abhi/college/csharp/stringshit/obj/Debug/net8.0/refint/stringshit.dll
+/home/abhi/college/csharp/stringshit/obj/Debug/net8.0/stringshit.pdb
+/home/abhi/college/csharp/stringshit/obj/Debug/net8.0/stringshit.genruntimeconfig.cache
+/home/abhi/college/csharp/stringshit/obj/Debug/net8.0/ref/stringshit.dll

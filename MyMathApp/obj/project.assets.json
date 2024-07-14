@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "mymathlib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/mymathlib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/mymathlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mymathlib/1.0.0": {
+      "type": "project",
+      "path": "../mymathlib/mymathlib.csproj",
+      "msbuildProject": "../mymathlib/mymathlib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "mymathlib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/abhi/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/abhi/college/csharp/MyMathApp/MyMathApp.csproj",
+      "projectName": "MyMathApp",
+      "projectPath": "/home/abhi/college/csharp/MyMathApp/MyMathApp.csproj",
+      "packagesPath": "/home/abhi/.nuget/packages/",
+      "outputPath": "/home/abhi/college/csharp/MyMathApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/abhi/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/abhi/college/csharp/mymathlib/mymathlib.csproj": {
+              "projectPath": "/home/abhi/college/csharp/mymathlib/mymathlib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

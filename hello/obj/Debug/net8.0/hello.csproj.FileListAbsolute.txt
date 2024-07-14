@@ -1,0 +1,14 @@
+/home/abhi/college/csharp/hello/bin/Debug/net8.0/hello
+/home/abhi/college/csharp/hello/bin/Debug/net8.0/hello.deps.json
+/home/abhi/college/csharp/hello/bin/Debug/net8.0/hello.runtimeconfig.json
+/home/abhi/college/csharp/hello/bin/Debug/net8.0/hello.dll
+/home/abhi/college/csharp/hello/bin/Debug/net8.0/hello.pdb
+/home/abhi/college/csharp/hello/obj/Debug/net8.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/abhi/college/csharp/hello/obj/Debug/net8.0/hello.AssemblyInfoInputs.cache
+/home/abhi/college/csharp/hello/obj/Debug/net8.0/hello.AssemblyInfo.cs
+/home/abhi/college/csharp/hello/obj/Debug/net8.0/hello.csproj.CoreCompileInputs.cache
+/home/abhi/college/csharp/hello/obj/Debug/net8.0/hello.dll
+/home/abhi/college/csharp/hello/obj/Debug/net8.0/refint/hello.dll
+/home/abhi/college/csharp/hello/obj/Debug/net8.0/hello.pdb
+/home/abhi/college/csharp/hello/obj/Debug/net8.0/hello.genruntimeconfig.cache
+/home/abhi/college/csharp/hello/obj/Debug/net8.0/ref/hello.dll
