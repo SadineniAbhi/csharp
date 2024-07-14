@@ -1,0 +1,17 @@
+@page
+@model MyRazorApp.Pages.ValidationFormModel
+
+<h1>ASP.NET Validation Controls</h1>
+<form method="post">
+    <div>
+        <label for="FirstName">First Name:</label>
+        <input type="text" id="FirstName" asp-for="FirstName" required />
+        <span asp-validation-for="FirstName" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="LastName">Last Name:</label>
+        <input type="text" id="LastName" asp-for="LastName" required/>
+        <span asp-validation-for="LastName" class="text-danger"></span>
+    </div>
+    <button type="submit">Submit</button>
+</form>
